@@ -3,7 +3,7 @@
 ---
 
 
-### Link 
+### 1 Link 
 
 1. **Como fazer um update de uma revisão sistemática?** https://www.bmj.com/content/354/bmj.i3507
 2. **Estatística nos updates de revisões sistemáticas?** [Ver estes vídeos](https://training.cochrane.org/resource/statistical-methods-updating-meta-analyses)
@@ -14,17 +14,19 @@
 7. **Explicação step-by-step PRISMA** [documento](https://www.bmj.com/content/372/bmj.n160)
 8. **Site para a pesquisa dos textos** [Site](https://get.covidence.org/literature-review?campaignid=18165361407&adgroupid=138405766537&gclid=Cj0KCQiA4uCcBhDdARIsAH5jyUl4g1oS9EBC8z9YuolSM5PYBwhTL_DN8t1jona_M3RVBzlvabZM1A0aAmxpEALw_wcB)
 
-### Dentro do RevMan5
+### 2 Dentro do RevMan5
 1. **Como transformar IQR em SD?** [link](https://www.researchgate.net/post/Is_there_any_way_to_get_mean_and_SD_from_median_and_IQR_interquartile_range)
 2. **Pooled groups** [link](https://dmetar.protectlab.org/reference/pool.groups.html)
 3. **Combinar dicotómica com contínua** [handbook](https://handbook-5-1.cochrane.org/chapter_9/9_4_6_combining_dichotomous_and_continuous_outcomes.htm)
 4. **Importante para analises com mais de um grupo** [16.5.2 Determining which intervention groups are relevant (cochrane.org)](https://handbook-5-1.cochrane.org/chapter_16/16_5_2_determining_which_intervention_groups_are_relevant.htm)
 5. **Effect measures for ordinal outcomes and measurement scales** [link](https://handbook-5-1.cochrane.org/chapter_9/9_2_4_effect_measures_for_ordinal_outcomes_and_measurement.htm)
 6. **Contagem de efeitos secundários** [handbook](https://handbook-5-1.cochrane.org/chapter_9/9_4_8_meta_analysis_of_counts_and_rates.htm) 
+7. **What to do when there are 0 cell counts?** [handbook](https://handbook-5-1.cochrane.org/chapter_16/16_9_2_studies_with_zero_cell_counts.htm) Quick answer, there's no problem, RevMan will change the value to 0.5
+8. **What to do when there are no events?** do note include in the study [handbook](https://handbook-5-1.cochrane.org/chapter_16/16_9_3_studies_with_no_events.htm)
 
 
 
-### Extras
+### 3 Extras
 1. **Duvidas, questões e como realizar a metaanálise** [guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/effects.html)
 
 

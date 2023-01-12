@@ -23,7 +23,7 @@
 6. **Contagem de efeitos secundários** [handbook](https://handbook-5-1.cochrane.org/chapter_9/9_4_8_meta_analysis_of_counts_and_rates.htm) 
 7. **What to do when there are 0 cell counts?** [handbook](https://handbook-5-1.cochrane.org/chapter_16/16_9_2_studies_with_zero_cell_counts.htm) Quick answer, there's no problem, RevMan will change the value to 0.5
 8. **What to do when there are no events?** do note include in the study [handbook](https://handbook-5-1.cochrane.org/chapter_16/16_9_3_studies_with_no_events.htm)
-
+9. **Calculate RR, OR and RateRatio** [handbook](https://www.youtube.com/watch?v=4Iq_78hNfBU&ab_channel=CochraneTraining)
 
 
 ### 3 Extras

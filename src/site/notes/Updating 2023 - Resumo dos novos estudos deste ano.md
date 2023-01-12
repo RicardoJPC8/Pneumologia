@@ -16,3 +16,7 @@
 >While several other parameters are typically used in COPD (6-minute walk test and FEV1), this study highlights the applicability and validity of using DLCO as a predictor of mortality in patients with COPD.
 
 
+
+
+Extra:
+[[Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]

@@ -5,18 +5,18 @@
 
 ### 1 Azatioprina
 #### 1.1 Fármaco
-1. Iniciar terapêutica 50mg/d no 1º mês
+1. Iniciar terapêutica 50mg/d no 1º mês 
 2. Se tolerado, aumentar para 100mg/d no 2º mês
 3. Se tolerado, aumentar para 150mg no 3º mês
 
 #### 1.2 Vigilância
 1. Hemograma, ureia, eletrolitos, AST/ALT 1x/semana durante 6 semanas.
-2. Hemograma, ureia, eletrolitos, AST/ALT 1x/duas semanas até dose estável (150mg) durante 6 semanas. 
-3. Hemograma, ureia, eletrolitos, AST/ALT 1x cada 3 meses. 
+2. Hemograma, ureia, eletrolitos, AST/ALT 1x/duas semanas até dose estável (150mg) durante 6 semanas.
+3. Hemograma, ureia, eletrolitos, AST/ALT 1x cada 3 meses.
 
-(*É tolerável um aumento da AST/ALT até 2x o limite da normalidade; tolerável leucócitos = 3500., neutrófilos = 2500 e plaquetas 150.000*)
+(*É tolerável um aumento da AST/ALT até 2x o limit da normalidade; tolerável leucócitos = 3500., neutrófilos = 2500 e plaquetas 150.000*)
 
-### 2 Hidroxicloroquina 
+### 2 Hidroxicloroquina
 
 #### 2.1 Fármaco
 1. Iniciar com 200mg 1x/dia durante 2 semanas
@@ -27,9 +27,9 @@
 
 *(O andré diz que a partir dos 4g de dose cumulativa aumenta o risco)*
 
-### 3 Micofenolato de Mofetil 
+### 3 Micofenolato De Mofetil
 
-#### 3.1 Fármaco 
+#### 3.1 Fármaco
 1. Iniciar com 500mg/2x dia durante 1 mês
 2. Se tolerado, aumentar a dose para 750mg 2x/dia durante o 2º mês
 3. Se tolerado, aumentar a dose para 1g 2x/dia
@@ -39,11 +39,11 @@
 2. Hemograma, ureia, eletrolitos, AST/ALT 1x por mês durante 4 meses
 3. Hemograma, ureia, eletrolitos, AST/ALT 1x a cada 3 meses indefinidamente
 
-(*É tolerável um aumento da AST/ALT até 2x o limite da normalidade; tolerável leucócitos = 3500., neutrófilos = 2500 e plaquetas 150.000*)
+(*É tolerável um aumento da AST/ALT até 2x o limit da normalidade; tolerável leucócitos = 3500., neutrófilos = 2500 e plaquetas 150.000*)
 
-Nota: a renzoni divide o primeiro mês em 250 2x dia 2 semanas e 500 2x dia 2 semanas 
+Nota: a renzoni divide o primeiro mês em 250 2x dia 2 semanas e 500 2x dia 2 semanas
 
-### 4 Metotrexato 
+### 4 Metotrexato
 
 #### 4.1 Fármaco
 1. Iniciar terapia com 5mg/semana e ácido fólico no dia seguinte no 1º mês

@@ -22,4 +22,4 @@
 > This study validates the use of FVC in progressive pulmonary fibrosis. It also highlights the wide variability across ILD subtypes.
 
 Extra:
-[[Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]
+[[Alergologia Respiratória/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]

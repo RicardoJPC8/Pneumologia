@@ -8,6 +8,12 @@
 2. [[🗞 Publicações e material/Inhaled Antibiotics in Bronchiectasis/Dúvidas de estatística\|Dúvidas de estatística]]
 3. [[Doenças do Interstício/🧪 Protocolos Tratamento Brompton\|🧪 Protocolos Tratamento Brompton]]
 4. [[Updating 2023 - Resumo dos novos estudos deste ano\|Updating 2023 - Resumo dos novos estudos deste ano]] 
+5. [[Alergologia Respiratória/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]
+
+
+
+
+
 
 
 

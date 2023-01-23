@@ -29,9 +29,8 @@
 
 >[!danger]- 🥇 **Efficacy and Safety of 24-Week All-Oral Regimens for Rifampin-Resistant Tuberculosis (BT Nyang'wa, NEMJ, Jan 2023)**
 >
- > *Summary*
-> *This open-label, phase II to III, multicenter, randomized, controlled noninferiority trial involving patients older than 15 years in Belarus, South Africa, and Uzbekistan with rifampin-resistant tuberculosis compared three 24-week oral medication regimens with the standard-of-care oral and intravenous 9- to 20-month regimens. The results demonstrated that this 24-week oral regimen was noninferior to the current WHO standard of care and was associated with fewer adverse effects by the 72-week point.*
-> *This trial supports a regimen for rifampin-resistant tuberculosis that, in addition to being effective, seems to be more patient-friendly, given the shorter duration and all oral form. It is likely that compliance with this type of regimen among patients will be better than that with the alternative.*
+ >**Summary**
+> **This open-label, phase II to III, multicenter, randomized, controlled noninferiority trial involving patients older than 15 years in Belarus, South Africa, and Uzbekistan with rifampin-resistant tuberculosis compared three 24-week oral medication regimens with the standard-of-care oral and intravenous 9- to 20-month regimens. The results demonstrated that this 24-week oral regimen was noninferior to the current WHO standard of care and was associated with fewer adverse effects by the 72-week point. This trial supports a regimen for rifampin-resistant tuberculosis that, in addition to being effective, seems to be more patient-friendly, given the shorter duration and all oral form. It is likely that compliance with this type of regimen among patients will be better than that with the alternative.**
 >---
 >
 >Worldwide, about 450,000 persons per year develop rifampin-resistant tuberculosis (RR-TB), a difficult-to-treat and often deadly form of tuberculosis that includes multi-drug resistant tuberculosis (MDR-TB, a subset of RR-TB that includes resistance to isoniazid) and extensively drug-resistant tuberculosis (XDR-TB, a subset of MDR-TB that includes resistance to the fluoroquinolones and three second-line injectable agents: capreomycin, kanamycin, and amikacin).1 Unlike drug-susceptible tuberculosis (TB), which is treatable with a well-tolerated, 26-week, all-oral regimen with a treatment success rate of 86% worldwide, RR-TB (including MDR-TB and XDR-TB) requires prolonged treatment lasting 9–20 months with standardized regimens involving multiple, highly toxic oral, and/or injectable agents. Treatment success rates for RR-TB are just 60% worldwide, with high rates of mortality and treatment discontinuation due to adverse effects.
@@ -43,6 +42,10 @@
 >The trial had several strengths, including the pragmatic design that included participants with all forms of RR-TB. There are also some limitations, such as the open-label design that could explain the higher than expected unfavorable status rate in the standard-care group.2 The study findings are consistent with two previous trials, showing that short BPaL regimens without moxifloxacin or clofazimine are superior to standard care3,4 and support regulatory applications to make them routinely available.
 >
 >In an accompanying Editorial, Diacon offers a cautionary, must-heed warning: antimicrobial resistance has plagued TB care since the first antimicrobial trials. Accordingly, careful antimicrobial stewardship and pharmacosurveillance must accompany this novel RR-TB regimen to contain the inevitable mutations that will otherwise lead to the next generation of highly drug-resistant TB.
+
+
+>[!Example]- Progression-Free Survival, and Local-Regional Control in Patents with Locally Advanced Non-Small Cell Lung Cancer Treated With Chemoradiation and Durvalumab (ES Lebow, JAMA Network Open 2023)
+In this cohort study, the authors evaluated the association between tumor mutational burden (TMB) and clinical outcomes in 81 patients with locally advanced non–small cell lung cancer (NSCLC) treated with chemoradiation and consolidative durvalumab. Patients with TMB-high status had significantly improved local–regional control and progression-free survival outcomes compared with those with TMB-low status.. The results of this study suggest that analysis of TMB may serve as a pivotal biomarker in the ongoing management of patients with locally advanced NSCLC.
 
 Extra:
 [[Alergologia Respiratória/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]

@@ -27,7 +27,6 @@ Em contraste os ANCA que causam um padrão de Imunofluorescência perinuclear e 
 Os anticorpos MPO são o tipo predominante encontrado nos doentes com EGPA, sendo os PR-3 a excepção. Apesar da existência de anticorpos circulantes, a maioria das lesões associadas não possui depósitos de imunoglobulinas, pelo qual são consideradas lesões pauci-imunes.
 
 ### 3 Epidemiologia
-
 As vasculites primárias são raras. A artrite de células gigantes é a forma mais frequente de vasculite sistémica e parece aumentar em frequência e tornar-se cíclica com o tempo. Acredita-se que possa estar relacionada com as infecções. No entanto a maioria destes doentes não apresenta sintomas respiratórios.
 
 Vários estudos reportam uma incidência anual estável em todo mundo da [[Doenças do Interstício/Arterite de Takayasu\|Arterite de Takayasu]]. As complicações respiratórias afetam 50% das doentes.

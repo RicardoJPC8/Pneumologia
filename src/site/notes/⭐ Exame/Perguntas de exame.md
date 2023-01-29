@@ -6,7 +6,8 @@
 
 ### 1 Perguntas rápidas
 
-#### 1.1 Imagiologia 
+#### 1.1 Imagiologia
+
 - Sinais radiológicos (S de golden) e qual a importância da radiografia de perfil
 - Qual o objetivo da radiografia de tórax na posição lordótica?
 
@@ -72,3 +73,7 @@
 #### 1.13 Patologia do Sono
 - Estudos de latência do sono e actigrafia
 
+### 2 Perguntas abertas
+
+1. Adenocarcinoma do pulmão 
+2. Síndromes de sobreposição da DPOC 

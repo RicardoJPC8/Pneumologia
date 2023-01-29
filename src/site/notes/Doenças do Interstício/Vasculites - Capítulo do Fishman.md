@@ -101,21 +101,73 @@ A histologia, tal como na GPA, pode ser necessária para confirmação do diagn�
 
 ### 5 EGPA 
 
+Previamente conhecido como [[Sindrome de Churg-Strauss\|Sindrome de Churg-Strauss]]. Reconhecido pelos doentes com atopia, sangue e eosinófilos nos tecidos. É a terceira vez explico mais frequente que afeta os pulmões. Pode ser distinguida das outras duas pela alta prevalência de asma, [[Pneumologia Geral/Eosinofilia periférica\|Eosinofilia periférica]] eosinofília tecidual.
+
+A Fase <u>prodómica</u> cursa com um quadro de asma e pode durar vários anos. A segunda fase é chamada de<u> fase eosinofílica</u> e cursa com Eosinofilia periférica e tecidual, podendo igualmente durar vários anos - a remissão e re-ocorrência é frequente durante este período. O diagnóstico diferencial destes doentes inclui a doença parasitária, a [[Pneumologia Geral/Pneumonia eosinofílica crónica\|Pneumonia eosinofílica crónica]] e o síndrome hipereosinofílico. A terceira fase consiste em na <u>vasculite sistémica</u> pode ser **potencialmente fatal**. 
+
+As três fases não são vistas em todos os doentes e não tem necessariamente que ocorrer por esta ordem, podendo até coincidir. No entanto, é habitual que a fase asmática preceda os sintomas de vasculite (em média 7 anos antes). Também estão descritas formas frustres desta doença na forma de infiltração eosinofílica e granulomas eosinofílicos em órgãos isolados.
+
+O envolvimento pulmonar ocorre em 38% dos doentes. Infiltrados alveolares transitórios são a manifestação mais comum e costumam ter distribuição periférica e ser indistinguíveis dos infiltrados encontrados na [[Pneumologia Geral/Pneumonia eosinofílica crónica\|Pneumonia eosinofílica crónica]]. Ao contrário da GPA e MPA, a hemorragia alveolar é muito rara. O envolvimento renal é menos evidente que na GPA e MPA normalmente não leva a falência renal. Em contraste, o envolvimento nervoso periférico é muito frequente e pode dever-se a capilarite ou de toxicidade direta devido aos grânulos eosinofílicos. Outros órgãos podem estar afectados. 
+
+##### 5.1.1 Histologia: 
+A histologia clássica consiste em vasculite necrotizante, infiltração tecidual eosinofíllica e granulomas extra vasculares. No entanto, nem todos os doentes têm estas alterações histológicas e nenhuma delas é patognomónica. É importante ainda referir que os achados de granulomas de Churg-Strauss em biópsia cutânea não levam a um diagnóstico definitivo de EGPA, dado que também podem ocorrer em outras doenças autoimunes, como a GPA e a AR.
+
+##### 5.1.2 Serologias positivas
+Os anca mais frequentemente encontrados são os P-ANCA que reagem a MPO. O valor de p-anca parece associar-se à atividade da doença. Doentes com a afetação renal são mais frequentemente ANCA positivos e doentes com afetação cardíaca são mais frequentemente ANCA negativos. No entanto, este achado é inconsistente entre estudos mantém-se alguma sobreposição nas manifestações entre os doentes ANCA positivos e ANCA negativos. 
+
+##### 5.1.3 Fatores de risco e prognóstico
+
+Historicamente, existiam dúvidas da importância do <u>montelucaste</u> no desenvolvimento da EGPA. Esses estudos são limitados à incidência na subpopulação. Os *case-studies* parecem sugerir que estes de agentes levem ao "desmascaramento" dos sintomas de vasculite na população asmática, maioritariamente pela diminuição do uso da corticoterapia oral. **Não existe evidência sugestiva de que estes agentes causem EPGA.**
+
+O prognóstico da EGPA é mais favorável que da GPA e MPA. **A maioria das mortes são causadas por envolvimento cardíaco secundário** e como tal, estes doentes devem ser vigiados para sintomas sugestivos de miocardiopatia, valvulite ou pericardite. 
+
+### 6 Fisiopatologia 
+A etiologia vasculites Anca mantém-se **desconhecida**. A predisposição genética para a autoimunidade, fatores epigenéticos e *triggers* do ambiente parecem ter um papel importante no desenvolvimento destas vasculites. As infecções podem promover a perda tolerância e consequente produção de anticorpos. 
+
+Estudos genéticos (*genome-wide studies*) mostraram associação entre o complexo principal de histocompatibilidade a GPA e MPA. **Surpreendentemente (ou não), a principal associação genética encontrada foi com o anticorpo presente e não com o fenótipo clínico apresentado**. Genes como a serpina1, PRTN3 e HLA-DPC parecem estar implicados nos doentes com PR-ANCA. Na MPO-ANCA a única relação encontrada foi HLA-DQ. 
+
+A expressão de PR3 parece estar alterada nestes doentes. Estudos mais recentes mostram que classificar os doentes com base na especificidade dos seus anticorpos ANCA (PR3 vs MPO) tem maior impacto clínico que com o diagnóstico fenotípico habitual. Este conceito é suportado por diversos trabalhos de avaliação genética. Doentes que se mantém ANCA negativo raramente desenvolvem sintomas de doença vascular. Doentes PR3 + apresentam maior risco de recidiva que doentes com MPO-ANCA. Outros estudos mostram também que os doentes com EGPA e panca positivos têm um fenótipo diferente que os P-ANCA negativos. 
+
+Na GPA, a presença de PR3 relaciona-se com as complicações. A recidiva com anticorpos negativos é extremamente rara. No entanto, a presença não indica obrigatoriamente doença, já que metade dos doentes mantém-se em remissão mesmo na presença de anticorpos positivos. 
+
+Muitos estudos em vitro mostraram os efeitos pro-inflamatórios nos neutrófilos, monócitos e células endoteliais na presença de ANCA. Os ANCA também podem causar dano celular direto e aumentar o recrutamento de células inflamatórias através da estimulação quimiotáxica.
+
+Muitos doentes com vasculite ANCA tem recorrência da doença após infecções respiratórias. nos raros instantes em que as serologias ANCA foram positivas durante a infecção, estes anticorpos desapareceram após a antibioterapia. Isto sugere que os ANCA podem aparecer transitoriamente após infecção e os casos em que persiste podem resultar em vasculite devido ao mimetismo celular. Um exemplo disto são os doentes com GPA colonizados com S. Aureus que apresentam maior risco de exacerbar.
+
+O formação de C5a (complemento) parece ter um papel nesta doença, e derivado deste achado, fármacos dirigidos a ativação do neutrófilo por C5a encontram-se atualmente em ensaios clínicos.. 
+
+### 7 Tratamento da GPA e MPA 
 
 
+### 8 Referências 
+#Bibliografia 
+Grippy M. Fishman Pulmonary Diseases and Disorders, 6a ed, 2022. Part 4. Section 8. Chapter 74. _Fishman Pulmonary Diseases and Disorders_ 2022.
 
-
+### 9 Flashcards 
 
 #card Na GPA, que percentagem de doentes apresenta estenose subglótica :: 20%
+<!--SR:!2023-02-01,3,250-->
 #card Que percentagem de doentes com hemorragia alveolar difusa não apresenta hemoptises? :: 1/3 dos doentes 
+<!--SR:!2023-02-01,3,250-->
 #card Verdadeiro ou falso: A artrite de Takayasu raramente tem manifestações respiratórias :: Falso 
+<!--SR:!2023-02-01,3,250-->
 #card Verdadeiro ou Falso -  Os doentes com GPA raramente se mantém ANCA negativos :: Verdadeiro 
+<!--SR:!2023-02-01,3,250-->
 #card Que orgão ou sistema é habitualmente afetado na GPA mas não na MPA e EGPA? :: Olhos
+<!--SR:!2023-02-01,3,250-->
 #card Verdadeiro ou falso -  Os ANCA + frequentemente encontrados na ILD e Vasculite são os PR3-ANCA :: Falso, MPO-ANCA são os anticorpos mais frequentes. 
+<!--SR:!2023-02-01,3,250-->
+#card A manifestação radiológica mais frequente da EGPA é :: Infiltrados alveolares periféricos, indistinguíveis da pneumonia eosinofílica crónica 
+#card Verdadeiro ou falso - A hemorragia alveolar é rara na EGPA :: Verdadeiro 
+#card Verdadeiro ou falso - A presença de granulomas de Churg-Strauss na histologia dão o diagnóstico definitivo de EGPA (ou antiga doença de Churg-Strauss) :: FALSO, também podem estar presentes em outras doenças autoimunes como a GPA e a Artrite Reumatóide 
+#card A presença de ANCA na EGPA parece correlacionar-se com a atividade da doença 
+#card Na EGPA, doentes com afetação cardíaca são habitualmente ANCA negativos 
+#card Qual é a principal causa de morte na EGPA ? :: Envolvimento cardíaco (miocardiopatia, valvulite, pericardite)
 
 
 
 Verdadeiro ou falso: É frequente a existência de achados histopatológicos compatíveis com vasculite nas biópsias transtorácicas das lesões pulmonares na GPA :: Falso, a sua distribuição é *patchy* ao longo das vias respiratórias REVER
+<!--SR:!2023-02-01,3,250-->
 
 
 

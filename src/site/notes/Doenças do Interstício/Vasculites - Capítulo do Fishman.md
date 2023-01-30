@@ -47,9 +47,11 @@ Vasculites com maior frequência de sintomas respiratórios e mais frequentes na
 #### 4.1 GPA
 A GPA é a forma mais comum de vasculite que afeta o sistema respiratório. É definida segundo consenso de Chapel como uma inflamação granulomatosa que envolve principalmente o trato respiratório com vasculite necrotizante que afeta principalmente os vasos de **pequeno e médio calibre**. No entanto, a GPA pode afetar **qualquer órgão**. Os orgãos mais frequentemente afetados são as vias aéreas superiores, os pulmões e os rins. É de realçar que mesmo na ausência de envolvimento renal os doentes podem ter doença pulmonar grave ou doença neurológica que requer imunossupressão agressiva. 
 
-Atualmente o termo de <u>GPA limitada</u> é apenas usado para doença granulomatosa predominanente inflamatória ou patologia que não tem perigo imediato para a vida do doente ou Dani irrepressível. Como tal o termo GPA limitada substituído pelo termo <u>GPA não grave</u>. 
+Atualmente o termo de <u>GPA limitada</u> é apenas usado para doença granulomatosa predominanente inflamatória ou patologia que não tem perigo imediato para a vida do doente ou dano irreversível. Como tal o termo GPA limitada substituído pelo termo <u>GPA não grave</u>. 
 
 A <u>GPA grave</u> é definida pelo risco de morte como o caso de hemorragia alveolar ou risco de dano irreversível de algum órgão nomeadamente Glomerulonefrite progressiva, esclerite ou mononeurite.
+{ #e9b94a}
+
 
 Mais de 90% dos doentes com GPA procuram ajuda médica por sintomas das vias respiratórias. O envolvimento nasal e sinusal é frequente e é caracterizado por cogestão e epistaxis. Os doentes também podem ter achados de sinusite crónica ou otite. A perfuração nasal do septo ou o *[[saddle-nose\|saddle-nose]]* pode resultar em isquémia da cartilagem nasal. As manifestações orais incluem hiperplasia gengival e úlceras da orofaringe. 
 
@@ -112,7 +114,7 @@ O envolvimento pulmonar ocorre em 38% dos doentes. Infiltrados alveolares transi
 ##### 5.1.1 Histologia: 
 A histologia clássica consiste em vasculite necrotizante, infiltração tecidual eosinofíllica e granulomas extra vasculares. No entanto, nem todos os doentes têm estas alterações histológicas e nenhuma delas é patognomónica. É importante ainda referir que os achados de granulomas de Churg-Strauss em biópsia cutânea não levam a um diagnóstico definitivo de EGPA, dado que também podem ocorrer em outras doenças autoimunes, como a GPA e a AR.
 
-##### 5.1.2 Serologias positivas
+##### 5.1.2 Serologias positivas1
 Os anca mais frequentemente encontrados são os P-ANCA que reagem a MPO. O valor de p-anca parece associar-se à atividade da doença. Doentes com a afetação renal são mais frequentemente ANCA positivos e doentes com afetação cardíaca são mais frequentemente ANCA negativos. No entanto, este achado é inconsistente entre estudos mantém-se alguma sobreposição nas manifestações entre os doentes ANCA positivos e ANCA negativos. 
 
 ##### 5.1.3 Fatores de risco e prognóstico
@@ -132,11 +134,24 @@ Na GPA, a presença de PR3 relaciona-se com as complicações. A recidiva com an
 
 Muitos estudos em vitro mostraram os efeitos pro-inflamatórios nos neutrófilos, monócitos e células endoteliais na presença de ANCA. Os ANCA também podem causar dano celular direto e aumentar o recrutamento de células inflamatórias através da estimulação quimiotáxica.
 
-Muitos doentes com vasculite ANCA tem recorrência da doença após infecções respiratórias. nos raros instantes em que as serologias ANCA foram positivas durante a infecção, estes anticorpos desapareceram após a antibioterapia. Isto sugere que os ANCA podem aparecer transitoriamente após infecção e os casos em que persiste podem resultar em vasculite devido ao mimetismo celular. Um exemplo disto são os doentes com GPA colonizados com S. Aureus que apresentam maior risco de exacerbar.
+Muitos doentes com vasculite ANCA tem recorrência da doença após infecções respiratórias. 
+O complemento fotos sem parecer importante nesta doença.nos raros instantes em que as serologias ANCA foram positivas durante a infecção, estes anticorpos desapareceram após a antibioterapia. Isto sugere que os ANCA podem aparecer transitoriamente após infecção e os casos em que persiste podem resultar em vasculite devido ao mimetismo celular. Um exemplo disto são os doentes com GPA colonizados com S. Aureus que apresentam maior risco de exacerbar.
 
 O formação de C5a (complemento) parece ter um papel nesta doença, e derivado deste achado, fármacos dirigidos a ativação do neutrófilo por C5a encontram-se atualmente em ensaios clínicos.. 
 
 ### 7 Tratamento da GPA e MPA 
+O principal objetivo do tratamento é induzir a remissão o mais rapidamente possível de forma a evitar danos irreversíveis. Assim que as missão foi conseguida, o segundo objetivo é manter o doente a remissão com o mínimo de efeitos possíveis. O tratamento aplica-se tanto a gp a com a MP.
+
+#### 7.1 Terapêutica de indução
+
+##### 7.1.1 Cotrimoxazol na doença limitada
+Muito raramente é possível usar <u>co-trimoxazol</u> na dose de 800/160mg 2x dia. O mecanismo de ação é pouco claro mas pode estar relacionado sobre o efeito no S.aureus e pelos efeitos imunomodulatórios.  A sua terapêutica isolada não deve ser usado em contexto de ANCA positivos, de  glomerulonefrite ou com manifestações de [[Doenças do Interstício/Vasculites - Capítulo do Fishman#^e9b94a\|doença grave]]. Os doentes sob cotrimoxazol devem manter vigilância apertada dado que podem vir a manifestar doença grave com necessidade de imunossupressão. É de realçar que o as novas guidelines não abordam o tratamento da doença localizada ANCA-negativa. 
+
+##### 7.1.2 Corticoterapia na doença não-grave 
+A terapêutica de indução *standard* mais usada nos doentes com doença categorizada como limitada/não grave/precoce na GPA ou MPA consiste em prednisolona na dose de 0.5 a 1 mg/kg/d (dose máxima = 80mg) em combinação com o metotrexato na dose de 20 a 25 mg uma vez por semana (oral ou sc). Para minimizar o risco de Pneumocystis, este regime deve ser suplementado com ácido fólico 1mg/dia e profilaxia *standard*.  A azatioprina e o MMF são alternativas viáveis. 
+
+##### 7.1.3 Abordagem da doença grave
+
 
 
 ### 8 Referências 

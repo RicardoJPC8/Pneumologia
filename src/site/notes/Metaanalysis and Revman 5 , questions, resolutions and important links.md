@@ -33,9 +33,17 @@
 ### 3 Extras
 1. **Duvidas, questões e como realizar a metaanálise** [guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/effects.html)
 
+- [Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383202/)
+
+- We're using rate ratio's: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-4-17
+
+### 4 Doing the meta-analysis: Considerations
+
+> [!Important]- 1. Pooling results in continuous outcomes
+> 
+> When outcomes are continuous, review authors have a number of options in presenting pooled results.  If all studies have used the same units, a meta-analysis may generate a pooled estimate in those units, as a difference in mean response (see, for instance, the row summarizing results for oedema in Chapter 11,.  The units of such outcomes may be difficult to interpret, particularly when they relate to rating scales.  **‘Summary of findings’ tables should include the minimum and maximum of the scale of measurement, and the direction**. Knowledge of the smallest change in instrument score that patients perceive is important – the minimal important difference – and can greatly facilitate the interpretation of results.  **Knowing the minimal important difference allows authors and users to place results in context, and authors should state the minimal important difference – if known – in the Comments column of their ‘Summary of findings’ table**.
 
 
-[Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383202/)
 
-We're using rate ratio's: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-4-17
+
 

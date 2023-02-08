@@ -3,29 +3,6 @@
 ---
 
 
----
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#1 Introdução\|1 Introdução]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#2 Classificação e definições\|2 Classificação e definições]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#3 Epidemiologia\|3 Epidemiologia]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4 Vasculites-anca\|4 Vasculites-anca]]
-	- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4 Vasculites-anca\|4.1 Gpa]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4.1 Gpa\|4.1.1 Outros sistemas afetados]]
-	- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4 Vasculites-anca\|4.2 Mpa]]
-	- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4 Vasculites-anca\|4.3 Doença do interstício e vasculite anca (COM ou sem MPA)]]
-	- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4 Vasculites-anca\|4.4 Egpa]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4.4 Egpa\|4.4.1 Histologia:]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4.4 Egpa\|4.4.2 Serologias positivas1]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#4.4 Egpa\|4.4.3 Fatores de risco e prognóstico]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#5 Fisiopatologia\|5 Fisiopatologia]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#6 Tratamento da gpa e mpa\|6 Tratamento da gpa e mpa]]
-	- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#6 Tratamento da gpa e mpa\|6.1 Terapêutica de indução]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#6.1 Terapêutica de indução\|6.1.1 Cotrimoxazol na doença limitada]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#6.1 Terapêutica de indução\|6.1.2 Corticoterapia na doença não-grave]]
-		- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#6.1 Terapêutica de indução\|6.1.3 Abordagem da doença grave]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#7 Referências\|7 Referências]]
-- [[Doenças do Interstício/Vasculites - Capítulo do Fishman#8 Flashcards\|8 Flashcards]]
----
-
 ### 1 Introdução
 A vasculite pulmonar é habitualmente a manifestação de uma doença sistémica que leva à inflamação de vasos de diferentes tamanhos e através de diferentes mecanismos imunomediados.
 

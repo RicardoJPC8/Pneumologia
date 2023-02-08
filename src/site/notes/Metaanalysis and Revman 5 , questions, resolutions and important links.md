@@ -27,16 +27,17 @@
 10. **Calculate RR, OR and RateRatio** [handbook](https://www.youtube.com/watch?v=4Iq_78hNfBU&ab_channel=CochraneTraining)
 11. **Combine dichotomous and continuous variables** [handbook](https://handbook-5-1.cochrane.org/chapter_9/9_4_6_combining_dichotomous_and_continuous_outcomes.htm)
 12. **Mixed model analysis explanation**[youtube](https://www.youtube.com/watch?v=4bGG02Jsjyc&t=570s&ab_channel=TileStats)
-13. 
+13. **How to present risk of bias tables and figures (old version)**: [youtube](https://www.youtube.com/watch?v=kFXzUK6z5L8&ab_channel=JunXia)
+
 
 
 ### 3 Extras
-1. **Duvidas, questões e como realizar a metaanálise** [guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/effects.html)
-
+1. **Duvidas, questões e como realizar a metaanálise** [guide](https://.org/MathiasHarrer/Doing_Meta_Analysis_in_R/effects.html)
 - [Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383202/)
 
 - We're using rate ratio's: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-4-17
 
+2. **Global rating of change questionnaire: how to find MCID
 ### 4 Doing the meta-analysis: Considerations
 
 > [!Important]- 1. Pooling results in continuous outcomes
@@ -47,3 +48,7 @@
 
 
 
+#### 4.1 Final
+
+read this part before drawing conclusions 
+https://training.cochrane.org/handbook/current/chapter-15

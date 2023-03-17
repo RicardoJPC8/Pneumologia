@@ -34,5 +34,10 @@
 >[!Example]- **Progression-Free Survival, and Local-Regional Control in Patents with Locally Advanced Non-Small Cell Lung Cancer Treated With Chemoradiation and Durvalumab (ES Lebow, JAMA Network Open 2023)**
 In this cohort study, the authors evaluated the association between tumor mutational burden (TMB) and clinical outcomes in 81 patients with locally advanced non–small cell lung cancer (NSCLC) treated with chemoradiation and consolidative durvalumab. Patients with TMB-high status had significantly improved local–regional control and progression-free survival outcomes compared with those with TMB-low status.. The results of this study suggest that analysis of TMB may serve as a pivotal biomarker in the ongoing management of patients with locally advanced NSCLC.
 
+
+> [!tip]- Efficacy of Opt-Out vs Opt-In Treatment Strategy in Individuals Who Use Tobacco (Respiratory Medicine, 2023)
+>  In this randomized clinical trial, the authors sought to evaluate the effects of an opt-out versus opt-in smoking cessation intervention in patients at hospital discharge. Patients in the opt-out group were provided medications, tool kits, and counseling; patients in the opt-in group who were willing to quit were also offered the same interventions. Patients in the opt-out group demonstrated significantly more treatment engagement and quit attempts while also endorsing increased therapeutic alliance with healthcare providers. **The results of this study suggest that providing tobacco users with smoking cessation tools may be effective even in patients who do not initially express the willingness to quit**. This strategy has the potential to significantly increase the cessation rate among all smokers.
+
+
 Extra:
 [[Alergologia Respiratória/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]

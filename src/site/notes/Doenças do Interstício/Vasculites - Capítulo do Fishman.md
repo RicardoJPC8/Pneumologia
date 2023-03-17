@@ -114,7 +114,7 @@ O envolvimento pulmonar ocorre em 38% dos doentes. Infiltrados alveolares transi
 ##### 4.4.1 Histologia:
 A histologia clássica consiste em vasculite necrotizante, infiltração tecidual eosinofíllica e granulomas extra vasculares. No entanto, nem todos os doentes têm estas alterações histológicas e nenhuma delas é patognomónica. É importante ainda referir que os achados de granulomas de Churg-Strauss em biópsia cutânea não levam a um diagnóstico definitivo de EGPA, dado que também podem ocorrer em outras doenças autoimunes, como a GPA e a AR.
 
-##### 4.4.2 Serologias positivas1
+##### 4.4.2 Serologias positivas
 Os anca mais frequentemente encontrados são os P-ANCA que reagem a MPO. O valor de p-anca parece associar-se à atividade da doença. Doentes com a afetação renal são mais frequentemente ANCA positivos e doentes com afetação cardíaca são mais frequentemente ANCA negativos. No entanto, este achado é inconsistente entre estudos mantém-se alguma sobreposição nas manifestações entre os doentes ANCA positivos e ANCA negativos.
 
 ##### 4.4.3 Fatores de risco e prognóstico
@@ -152,6 +152,46 @@ A terapêutica de indução *standard* mais usada nos doentes com doença catego
 
 ##### 6.1.3 Abordagem da doença grave
 
+Nos doentes com doença grave o tratamento consiste em breve nisso lona em combinação com Ciclofosfamida na dose de 2 mg por quilo diários entre três a seis meses. Alguns estudos mostraram que três pulsos de 15 mg Kilo Ciclofosfamida cada três semanas durante seis meses igualmente efetivo. Outros tudo mais recente mostrou que Rituximabe quatro vezes por semana comparativamente com a terapêutica habitual era equivalente ao tratamento com Ciclofosfamida. Como tal, o Rituximabe recebeu indicação e aprovação para uso das novas gay de Lines. A eficácia de um Sto curso de quatro vezes por semana de Rituximabe era o equivalente a terapêutica Standart com Ciclofosfamida e as Ã Prina durante 18 meses. Estes três esquemas de remissão que incluem Ciclofosfamida TV ou oral e Rituximabe mostraram ser equivalentes em doentes diagnosticados de novo. A remissão atinge cerca de 90%. Para os doentes que apresentam Recidiva grave, o Rituximabe mostrou superior a Ciclofosfamida. Rituximabe também se mostrar superior nos doentes que são PR3, sendo que essa eficácia não ficou comprovada nos doentes que são MP. Rituximabe eu também a gente ferido em doentes jovens nos quais a fertilidade importante. H e de line mais recentes dá uma recomendação condicional para uso de Rituximabe acima da Ciclofosfamida na indução de remissão nos doentes com GTA ou MB a grave. Se a Ciclofosfamida oral fone usada os doentes tem que ter vigilância da medula. Avó Ciclofosfamida ser ajustada a função renal e os doentes devem ter um hemograma duas vezes por semana durante adoração de terapêutica. A dose ótima Ciclofosfamida oral é conseguida quando a contagem linfócitos está reduzida mas os negócios mantêm-se acima de 3500. Para evitar toxicidade da bexiga adoro deve ser aplicada de manhã e os doentes são instruídos para ti pelo -3 l de água por dia.
+Em doentes quando essa rápida progressivo fulminante principalmente os tem uma regi alveolar ou função renal grave, uso no teu prédio se lona 1 g dia durante três a cinco dias pode ser necessário. (Rever isto tudo)
+
+##### 6.1.4 Abordagem da doença refratária
+Cerca de 10% não respondem a terapêutica. O uso de rituximab tem se provado eficaz nestes doentes com GPA refratária. Os anti-TNF não são eficientes. Um trial multicêntrico (XXX) não mostrou eficácia. Infleximab usado em algumas coortes europeias. As guidelines recomendam o uso de agente alternativo (ciclofosfamida ou rituximab). O facto do rituximab ter um mecanismo de accção prolongado leva a que os doentes façam provavelmente rituximab + ciclofosfamida. 
+
+##### 6.1.5 Terapêutica de suporte
+A profilaxia com cotrimoxazol é recomendada dado que a PCP têm uma mortalidade de 35%. O mesmo se aplica a doentes sob metotrexato. Ácido fólico 1mg dia. Profilaxia antifúngica reservada para doentes sob imunossupressão intensa. Profilaxia da osteoporose com cálcio, vitamina D e possivelmente bifosfonatos. 
+
+#### 6.2 Casos particulares 
+##### 6.2.1 Tratamento da doença traqueobrônquica da GPA 
+Sem recomendações definidas. Uso de cortoides inalados em alta dose é recomendado. Em caso de obstrução fixa, procedimento para dilatação podem ser usados. Traqueo-broncomalácia com colapso dinámico podem beneficiar de NIV. Doentes com [[traqueobroncomalacia\|traqueobroncomalacia]] encontram-se habitualmente "colonizados" por *S. Aureus* e *P. Aeruginosa* e devem ser tratados com cursos de antibioterapia guiados por TSA. Aconselhamento nutricional e uso de IBP é recomendado nos doentes com DRGE. 
+
+##### 6.2.2 Tratamento dos doentes ANCA positivos com doença do interstício
+Doentes com ILD e MPA devem receber o tratamento standard com glucocorticoides em combinação com terapêutica imunossupressora ([[Doenças do Interstício/Vasculites - Capítulo do Fishman#6.1.3 Abordagem da doença grave\|=doença grave]]). Imagiologicamente o padrão de NSIP e bronquiolite são os mais comuns. É necessário excluir a hemorragia alveolar difusa. Se excluida, iniciar tratamento habitual das ILD inflamatórias (OCS + AZA ou MMF). Doentes com padrão de UIP e ANCA (+) mas sem sinais de vasculite devem ser monitorizados mas não devem iniciar terapêutica com AZA ou MMF. A terapêutica antifibrótica é a melhor opção. 
+
+> [!warning]  Doentes com padrão de UIP não devem receber imunomoduladores
+ 
+#### 6.3 Tratamento da EGPA 
+Embora tenha menor mortalidade que a GPA e MPA, o seu tratamento é complexo. Os doentes devem ser discutidos em reunião multidisciplinar. As escolhas são estratificadas pela gravidade da doença (grave = potencialmente fatal ou dano de orgão irreversível). A doença grave inclui o envolvimento cardíaco, renal, gastrointestinal, nervoso e a hemorragia alveolar. Outros achados clinicos incluem asma, rinossinusitie, infiltrados pulmonares eosinofílicos e doença da pele e enquadram-se na doença não-grave. 
+
+O termo doença refratária refere-se a doença que mantém atividade E que necessitam +7.5 mg de prediz zona para manter a doença controlada. 
+
+Os corticoides são o principal agente de indução para todos os doentes, embora não existam ensaios clínicos para nos guiar. Alguns estudos, nomeadamente os ensaios do grupo francês, sugerem que se deve aplicar os mesmos princípios da abordagem das outras duas doenças (MPA e GPA).
+
+Na doença <u>não-grave</u>, os doentes devem iniciar drogas como a Azatioprina, o metotrexato e o MMF quando não é possível reduzir os corticoides abaixo dos 10 mg por dia. Os doentes com <u>doença grave</u> devem receber terapêutica adicional com Ciclofosfamida ou Rituximab (em conjunto com a corticoterapia). A Ciclofosfamida é o agente preferido para a doença que atinge sistema cardiovascular, GI, vascular e SNC. A ciclofosfamida deve ser substituída após 4-6 meses de tratamento, habitualmente por um poupador de corticoides (e.g. AZA). 
+
+O rituximab também tem sido usado para os doentes com EGPA, particularmente os MPA positivos e que tenham afectação renal ou hemorragia alveolar (rara nestes doentes).  O rituximab mostrou ser capaz de reduzir de forma significativa a dose de corticoterapia necessária. 
+
+Mais recentemente terapêutica biológica (Benralizumab e Mepolizumab) mostraram ser eficazes como poupadores de corticoides. Num estudo duplo cego, placebo-paralelo controlado o mepolizumab mostrou capacidade reduzir a corticoterapia significativamente. No entanto, doentes com doença grave com eosinofilia marcada ou manifestações de vasculite foram excluídos deste ensaio clínico. Como tal, o verdadeiro efeito do mepolizumab mantém-se pouco claro.
+
+Num estudo recente de fase II, o benralizumab mostrou eficácia segurança. Outros estudos estão a ser aguardados. A doença respiratória ou dominada por inflamação é assim ó Filipa de difícil controle pode responder a terapêutica com interferirão alça. No entanto o Inter fran Alfa tem uma toxicidade considerável. *ongoing* comparam mepolizumab com benralizumab. 
+
+A doença respiratória ou dominada por inflamação eosinofilica de dificil controlo pode responder a terapêutica com INF alfa. No entanto, o INFalfa tem uma toxicidade considerável. 
+
+
+
+
+
+
 
 
 ### 7 Referências
@@ -161,33 +201,21 @@ Grippy M. Fishman Pulmonary Diseases and Disorders, 6a ed, 2022. Part 4. Section
 ### 8 Flashcards
 
 #card Na GPA, que percentagem de doentes apresenta estenose subglótica :: 20%
-<!--SR:!2023-02-22,15,250-->
 #card Que percentagem de doentes com hemorragia alveolar difusa não apresenta hemoptises? :: 1/3 dos doentes
-<!--SR:!2023-02-20,13,250-->
 #card Verdadeiro ou falso: A artrite de Takayasu raramente tem manifestações respiratórias :: Falso
-<!--SR:!2023-02-21,14,250-->
 #card Verdadeiro ou Falso - Os doentes com GPA raramente se mantém ANCA negativos :: Verdadeiro
-<!--SR:!2023-02-21,14,250-->
 #card Que orgão ou sistema é habitualmente afetado na GPA mas não na MPA e EGPA? :: Olhos
-<!--SR:!2023-02-22,15,250-->
 #card Verdadeiro ou falso - Os ANCA + frequentemente encontrados na ILD e Vasculite são os PR3-ANCA :: Falso, MPO-ANCA são os anticorpos mais frequentes.
-<!--SR:!2023-02-22,15,250-->
 #card A manifestação radiológica mais frequente da EGPA é :: Infiltrados alveolares periféricos, indistinguíveis da pneumonia eosinofílica crónica
-<!--SR:!2023-02-10,3,250-->
 #card Verdadeiro ou falso - A hemorragia alveolar é rara na EGPA :: Verdadeiro
-<!--SR:!2023-02-10,3,250-->
 #card Verdadeiro ou falso - A presença de granulomas de Churg-Strauss na histologia dão o diagnóstico definitivo de EGPA (ou antiga doença de Churg-Strauss) :: FALSO, também podem estar presentes em outras doenças autoimunes como a GPA e a Artrite Reumatóide
-<!--SR:!2023-02-10,3,250-->
 #card A presença de ANCA na EGPA parece correlacionar-se com a atividade da doença
 #card Na EGPA, doentes com afetação cardíaca são habitualmente ANCA negativos
 #card Qual é a principal causa de morte na EGPA ? :: Envolvimento cardíaco (miocardiopatia, valvulite, pericardite)
-<!--SR:!2023-02-10,3,250-->
 #card Verdadeiro ou falso: É frequente a existência de achados histopatológicos compatíveis com vasculite nas biópsias transtorácicas das lesões pulmonares na GPA :: Falso, a sua distribuição é *patchy* ao longo das vias respiratórias REVER
-<!--SR:!2023-02-22,15,250-->
-
-
-
-
+#card Verdadeiro ou Falso: A afectação do tecido cutâneo é característico da forma não grave da EGPA :: Verdadeiro
+#card Verdadeiro ou falso - A presença de Anca parece correlacionar-se com a atividade da doença::verdadeiro
+#card Verdadeiro ou falso - O rituximab é uma opção nos doentes com EGPA e afectação renal ou hemorragia alveolar difusa:: Verdadeiro! estas manifestações são raras na EGPA e estão muitas vezes associadas a MPO (+)
 
 
 

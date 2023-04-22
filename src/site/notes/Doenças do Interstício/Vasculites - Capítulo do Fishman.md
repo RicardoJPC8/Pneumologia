@@ -201,21 +201,35 @@ Grippy M. Fishman Pulmonary Diseases and Disorders, 6a ed, 2022. Part 4. Section
 ### 8 Flashcards
 
 #card Na GPA, que percentagem de doentes apresenta estenose subglótica :: 20%
+<!--SR:!2023-04-11,15,270-->
 #card Que percentagem de doentes com hemorragia alveolar difusa não apresenta hemoptises? :: 1/3 dos doentes
+<!--SR:!2023-04-11,15,250-->
 #card Verdadeiro ou falso: A artrite de Takayasu raramente tem manifestações respiratórias :: Falso
+<!--SR:!2023-04-11,15,270-->
 #card Verdadeiro ou Falso - Os doentes com GPA raramente se mantém ANCA negativos :: Verdadeiro
+<!--SR:!2023-04-11,15,250-->
 #card Que orgão ou sistema é habitualmente afetado na GPA mas não na MPA e EGPA? :: Olhos
+<!--SR:!2023-04-07,11,230-->
 #card Verdadeiro ou falso - Os ANCA + frequentemente encontrados na ILD e Vasculite são os PR3-ANCA :: Falso, MPO-ANCA são os anticorpos mais frequentes.
+<!--SR:!2023-04-11,15,270-->
 #card A manifestação radiológica mais frequente da EGPA é :: Infiltrados alveolares periféricos, indistinguíveis da pneumonia eosinofílica crónica
+<!--SR:!2023-04-11,15,250-->
 #card Verdadeiro ou falso - A hemorragia alveolar é rara na EGPA :: Verdadeiro
+<!--SR:!2023-04-11,15,250-->
 #card Verdadeiro ou falso - A presença de granulomas de Churg-Strauss na histologia dão o diagnóstico definitivo de EGPA (ou antiga doença de Churg-Strauss) :: FALSO, também podem estar presentes em outras doenças autoimunes como a GPA e a Artrite Reumatóide
+<!--SR:!2023-04-11,15,250-->
 #card A presença de ANCA na EGPA parece correlacionar-se com a atividade da doença
 #card Na EGPA, doentes com afetação cardíaca são habitualmente ANCA negativos
 #card Qual é a principal causa de morte na EGPA ? :: Envolvimento cardíaco (miocardiopatia, valvulite, pericardite)
+<!--SR:!2023-04-11,15,270-->
 #card Verdadeiro ou falso: É frequente a existência de achados histopatológicos compatíveis com vasculite nas biópsias transtorácicas das lesões pulmonares na GPA :: Falso, a sua distribuição é *patchy* ao longo das vias respiratórias REVER
+<!--SR:!2023-04-11,15,250-->
 #card Verdadeiro ou Falso: A afectação do tecido cutâneo é característico da forma não grave da EGPA :: Verdadeiro
+<!--SR:!2023-04-11,15,270-->
 #card Verdadeiro ou falso - A presença de Anca parece correlacionar-se com a atividade da doença::verdadeiro
+<!--SR:!2023-04-11,15,250-->
 #card Verdadeiro ou falso - O rituximab é uma opção nos doentes com EGPA e afectação renal ou hemorragia alveolar difusa:: Verdadeiro! estas manifestações são raras na EGPA e estão muitas vezes associadas a MPO (+)
+<!--SR:!2023-04-10,14,250-->
 
 
 

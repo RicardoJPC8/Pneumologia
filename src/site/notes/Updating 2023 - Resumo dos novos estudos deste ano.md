@@ -40,4 +40,4 @@ In this cohort study, the authors evaluated the association between tumor mutati
 
 
 Extra:
-[[Alergologia Respiratória/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]
+[[Alergologia Respiratória/Asma não-grave/Updating Asma a partir de 2022\|Updating Asma a partir de 2022]]
